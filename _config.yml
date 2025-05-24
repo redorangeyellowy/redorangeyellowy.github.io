@@ -1,11 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Junho Park
 description: Bay is a minimal Jekyll Theme.
 baseurl: "/bay"
-url: "https://eliottvincent.github.io"
-og_image: /assets/img/profile-pic.jpg
+url: "https://redorangeyellowy.github.io/"
+og_image: /assets/img/profiile_dolomites.jpg
 google_analytics: "UA-121636368-3"
 
 header:
@@ -34,10 +34,10 @@ footer:
       link: http://facebook.com/YourFacebookUsername
     - type: linkedin
       name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.linkedin.com/in/junho18-park/
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: https://github.com/redorangeyellowy
     - type: dribbble
       name: Dribbble
       link: https://dribbble.com/YourDribbbleUsername
