@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profiile_dolomites.jpg
+  src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
 
