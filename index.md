@@ -1,14 +1,12 @@
 ---
-layout: home
-profile_picture:
-  src: /assets/img/profile_dolomites.jpg
-  alt: website picture
+layout: default
+title: Home
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+# 주요 논문 소개
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+<div class="paper-list">
+  {% for paper in site.data.papers %}
+    {% include paper_card.html paper=paper %}
+  {% endfor %}
+</div>
